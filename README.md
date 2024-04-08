@@ -102,6 +102,10 @@ The project requires a dataset containing comprehensive bank loan information. B
 
 A dedicated date table created within SQL Server is crucial for time-based analysis in Power BI as mentioned in step 2 of phase 2.
 
+![Summary](https://github.com/d-sanoj/Bank-Loan-Analysis/assets/31980486/113220c2-e26b-4687-8cb4-67d654fc41cc)
+![Overview](https://github.com/d-sanoj/Bank-Loan-Analysis/assets/31980486/812e54f3-4d03-41ec-a7ce-8039a617c0d5)
+![Details](https://github.com/d-sanoj/Bank-Loan-Analysis/assets/31980486/b9a8b1b8-0ec8-470b-8422-27d25e4a0335)
+
 ## Deliverables
 
 - A secure and well-managed SQL Server database containing the bank loan data.
