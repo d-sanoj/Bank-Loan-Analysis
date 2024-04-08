@@ -104,6 +104,6 @@ A dedicated date table created within SQL Server is crucial for time-based analy
 
 ## Deliverables
 
-- A secure and well-managed SQL Server database containing the cleansed and transformed bank loan data.
-- A set of interactive Power BI dashboards providing insightful visualizations of KPIs, trends, and loan details.
+- A secure and well-managed SQL Server database containing the bank loan data.
+- A set of interactive Power BI dashboards providing insightful visualizations of KPIs, trends, and loan details according to the ETL process.
 - Project documentation outlining the complete workflow, data preparation steps, and functionalities of the dashboards.
